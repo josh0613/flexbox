@@ -1,0 +1,21 @@
+#a1 {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content:flex-start;
+    height: 500px;
+
+}
+#s1 {
+    background-color: blue;
+}
+#s2{
+    background-color: red;
+}
+#s3 {
+    background-color: green;
+}
+#s4{
+    background-color: yellow;
+}
